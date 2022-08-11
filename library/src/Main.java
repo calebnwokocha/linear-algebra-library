@@ -1,3 +1,9 @@
+/*
+ * Author: Caleb Nwokocha
+ * School: The University of Manitoba
+ * Department: Computer Science
+ */
+
 import java.util.Arrays;
 
 public class Main {
