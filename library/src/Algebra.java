@@ -1,7 +1,7 @@
 /*
  * Author: Caleb Nwokocha
  * School: The University of Manitoba
- * Faculty: Faculty of Science
+ * Department: Computer Science
  */
 
 import java.util.*;
@@ -728,12 +728,5 @@ public class Algebra {
         }
 
         return det;
-    }
-
-    // SINGULAR VALUE DECOMPOSITION
-    public double[][][] SVD (double[][] matrix) {
-        double[][][] SVD = null;
-
-        return SVD;
     }
 }
