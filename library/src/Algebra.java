@@ -686,7 +686,7 @@ public class Algebra {
                 // Q is determined dynamically by dot-product of all tempQ transpose.
                 Q = this.multiply(Q, this.transpose(tempQ));
 
-                // New matrix dot-product, could be referred as temporary R.
+                // The new matrix dot-product could be referred as temporary R.
                 matrix = this.multiply(tempQ, matrix);
 
                 k += 1;
